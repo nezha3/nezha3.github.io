@@ -1,0 +1,8 @@
+.box {
+  width: 500px;
+  height: 500px;
+  border-top: 300px solid transparent;
+  border-right: 300px solid transparent;
+  border-bottom: 300px solid goldenrod;
+  border-left: 300px solid transparent;
+}
