@@ -1,8 +1,12 @@
-.box {
-  width: 500px;
-  height: 500px;
-  border-top: 300px solid transparent;
-  border-right: 300px solid transparent;
-  border-bottom: 300px solid goldenrod;
-  border-left: 300px solid transparent;
+body{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+div.box {
+  width: 0px;
+  height: 0px;
+  border-top: 50vh solid palevioletred;
+  border-right: 50vw solid mediumturquoise;
+  border-bottom: 50vh solid goldenrod;
+  border-left: 50vw solid mediumpurple;
 }
