@@ -1,0 +1,12 @@
+/*
+ * Footer style
+ */
+.footer1{
+  align-self: center;
+  text-align: center;
+  background-color: #FCF3F0;
+  bottom:0;!important;
+  font-weight:100;
+  font-size: 12px;
+  cursor: crosshair;
+}
