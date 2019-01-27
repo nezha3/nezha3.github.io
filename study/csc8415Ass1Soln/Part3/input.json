@@ -1,6 +1,0 @@
-{ protocol: "HTTP/1.1"
-, request: "HEAD"
-, path: "/indx.html"
-, host: "localhost"
-, connection: "close"
-}
